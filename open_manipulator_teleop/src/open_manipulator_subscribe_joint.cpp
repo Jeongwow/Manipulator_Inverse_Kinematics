@@ -1,4 +1,4 @@
-#include "open_manipulator_teleop/open_manipulator_teleop_keyboard.h"
+#include "open_manipulator_teleop/open_manipulator_subscribe_joint.h"
 
 // 생성자. 위의 .h 헤더파일에서 정의한 class에 대한 생성자.
 // 위 클래스가 처음 생성될 때, 진행되는 Initialize 작업들
